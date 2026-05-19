@@ -11,11 +11,15 @@ and sends weekly email reports.
   <img src="img/wct-admin-reports.webp" alt="Admin reports page with sortable click statistics tables">
 </kbd>
 
+<div>&nbsp;</div>
+
 **Settings page**
 
 <kbd>
   <img src="img/wct-admin-settings.webp" alt="Admin settings page with CSS selector and report recipients fields">
 </kbd>
+
+<div>&nbsp;</div>
 
 **Email report**
 
