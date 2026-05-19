@@ -4,7 +4,7 @@
  * Description: Tracks WhatsApp button clicks, stores statistics in the database, and sends weekly email reports.
  * Version: 1.0.0
  * Author: Arsen Kazydub
- * Author URI: https://www.linkedin.com/in/arsen-kazydub/
+ * Author URI: https://github.com/arsen-kazydub
  * License: GPL v2 or later
  * Text Domain: whatsapp-click-tracker
  */
