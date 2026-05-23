@@ -4,7 +4,7 @@ A WordPress plugin that tracks WhatsApp button clicks, stores statistics in the 
 and sends weekly email reports.
 
 
-## Screenshots
+## Preview
 
 **Reports page**
 
