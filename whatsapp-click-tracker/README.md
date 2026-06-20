@@ -6,7 +6,7 @@ and sends weekly email reports.
 
 ## Preview
 
-**Reports page**
+**Reports Page**
 
 <kbd>
   <img src="screenshots/wct-admin-reports.webp" alt="Admin reports page with sortable click statistics tables">
@@ -14,7 +14,7 @@ and sends weekly email reports.
 
 <div>&nbsp;</div>
 
-**Settings page**
+**Settings Page**
 
 <kbd>
   <img src="screenshots/wct-admin-settings.webp" alt="Admin settings page with CSS selector and report recipients fields">
@@ -22,7 +22,7 @@ and sends weekly email reports.
 
 <div>&nbsp;</div>
 
-**Email report**
+**Email Report**
 
 <kbd>
   <img src="screenshots/wct-email-report.webp" alt="Weekly email report containing aggregated WhatsApp click statistics">
