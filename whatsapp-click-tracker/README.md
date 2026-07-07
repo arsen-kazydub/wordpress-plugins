@@ -4,28 +4,27 @@ A WordPress plugin that tracks WhatsApp button clicks, stores statistics in the 
 and sends weekly email reports.
 
 
-## Preview
+## Screenshots
 
-**Reports Page**
+### Reports Page
 
 <kbd>
-  <img src="screenshots/wct-admin-reports.webp" alt="Admin reports page with sortable click statistics tables">
+  <img src="screenshots/wct-admin-reports.webp"
+       alt="Admin reports page with sortable click statistics tables">
 </kbd>
 
-<div>&nbsp;</div>
-
-**Settings Page**
+### Settings Page
 
 <kbd>
-  <img src="screenshots/wct-admin-settings.webp" alt="Admin settings page with CSS selector and report recipients fields">
+  <img src="screenshots/wct-admin-settings.webp"
+       alt="Admin settings page with CSS selector and report recipients fields">
 </kbd>
 
-<div>&nbsp;</div>
-
-**Email Report**
+### Email Report
 
 <kbd>
-  <img src="screenshots/wct-email-report.webp" alt="Weekly email report containing aggregated WhatsApp click statistics">
+  <img src="screenshots/wct-email-report.webp"
+       alt="Weekly email report containing aggregated WhatsApp click statistics">
 </kbd>
 
 
